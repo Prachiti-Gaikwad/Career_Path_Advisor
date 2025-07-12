@@ -1,10 +1,4 @@
-# 🎯 AI Career Path Advisor - Brainwonders Assignment
-
-## 📋 Assignment Overview
-
-This project implements a comprehensive AI-powered career advisory system for the **Brainwonders AI Engineer Intern** position. The system uses Azure OpenAI GPT-4o mini to analyze student conversations and provide personalized career path recommendations.
-
-### ✅ Assignment Requirements Completed
+## Career_Path_Advisor
 
 1. **✓ Prompt Templates**: Sophisticated templates for preference extraction from conversations
 2. **✓ Career Mapping**: Maps interests to pre-defined paths (STEM, Arts, Sports)  
@@ -329,6 +323,3 @@ Solution: Provide more detailed conversation examples
 **Ready for interview demonstration!** 🎯
 
 ---
-
-*Developed for Brainwonders AI Engineer Intern Position*  
-*Implementation Date: June 2025* 

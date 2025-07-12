@@ -1,4 +1,4 @@
-## Career_Path_Advisor
+## Career Path Advisor
 
 1. **✓ Prompt Templates**: Sophisticated templates for preference extraction from conversations
 2. **✓ Career Mapping**: Maps interests to pre-defined paths (STEM, Arts, Sports)  
@@ -320,6 +320,7 @@ Solution: Provide more detailed conversation examples
 - [x] Performance metrics
 - [x] Complete documentation
 
-**Ready for interview demonstration!** 🎯
 
 ---
+##Demo
+https://github.com/user-attachments/assets/00f315aa-dc5e-4b9f-9f77-edafa0e6d292
